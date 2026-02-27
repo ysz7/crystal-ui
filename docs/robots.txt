@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crystal-ui.com/sitemap.xml
