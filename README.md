@@ -151,22 +151,6 @@ Here are some basic examples of Crystal UI components. All styles are included i
 - Toggle Group
 - Typography
 
-## Documentation
-
-To view the complete documentation, examples, and guides:
-
-1. Download the `React-App-Documentation` folder from this repository
-2. Navigate to the `React-App-Documentation` directory
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-5. Open your browser and visit the local development URL (usually `http://localhost:5173`)
-
 ## Browser Support
 
 Modern browsers (Chrome, Firefox, Safari, Edge) with CSS custom properties support.
